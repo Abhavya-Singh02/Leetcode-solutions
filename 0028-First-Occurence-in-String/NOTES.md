@@ -11,7 +11,7 @@
    - If all characters match until the end of `needle`, return the current index (`i`) as the starting index of the first occurrence of `needle` in `haystack`.
 
 4. **Handle Edge Cases:**
-   - If the inner loop completes without finding a mismatch, return -1 to indicate that `needle` is not found in `haystack`.
+   - If the inner loop completes without finding a mismatch, return -1 to indicate that `needle` is not found in `haystack`. 
 
 ### Complexity Analysis:
 - **Time Complexity:** O(n*m)
