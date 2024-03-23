@@ -1,5 +1,6 @@
 # 2706. [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)
 <h3>Easy</h3>
+<hr>
 
 You are given an integer array <code>prices</code> representing the <code>prices</code> of various chocolates in a store. You are also given a single integer money, which represents your initial amount of money.
 
