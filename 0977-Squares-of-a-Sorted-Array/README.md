@@ -1,7 +1,7 @@
 # 977. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 <h3>Easy</h3><hr>
 
-Given an integer array `nums` sorted in **non-decreasing order**, return <em>an array of <strong>the squares of each number</em> sorted in non-decreasing order.</em>
+Given an integer array `nums` sorted in **non-decreasing order**, return <em>an array of <strong>the squares of each number </strong>sorted in non-decreasing order.</em>
 
  
 
